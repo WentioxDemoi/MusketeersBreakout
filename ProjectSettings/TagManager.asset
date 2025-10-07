@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WeaponGun
+  - Enemy
+  - WeaponSword
+  - Ground
+  - Bullet
+  - WeaponHalberd
+  - WeaponKnife
+  - WeaponDagger
+  - WeaponSpear
+  - EnemyBody
+  - Shield
+  - LootHUDInventory
+  - WeaponCrossBow
+  - WeaponBow
+  - InventoryHUD
+  - Slot2
+  - Slot5
+  - ExperienceBarXpTag
+  - Slot6
+  - Slot4
+  - Slot8
+  - Slot1
+  - Slot7
+  - Slot3
+  - ExperienceBarLevelTag
+  - ExperienceBarDefaultTag
+  - Loot
+  - LootHUD
+  - Slot0
+  - ExtractionZone
+  - InventoryHUDFixe
+  - TempObjTag
+  - LootZoneTag
+  - TOTO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Obstacle
+  - Projectile
+  - Enemy
+  - Player
+  - Shield
+  - InvisibleToMiniMap
+  - InvisibleToCamera
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
